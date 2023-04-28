@@ -1,5 +1,7 @@
 body {
-    color: BLUE;
+
+    color: #333;
+
     text-align: left;
     font-family: Arial;
 }
@@ -12,5 +14,5 @@ body {
 }
 #container h1{
     font-size: 20px;
-    
+
 }
